@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my coding skills and building projects based on Data Structures and Algorithms<br>👯 I’m looking to collaborate on beginner-friendly tech projects and content creation<br>🤝 looking for help with mastering advanced DSA concepts and real-world problem solving<br>🌱 currently learning DSA, and improving problem-solving skills<br>💬 Ask me about Mern Stack development and DSA concepts 
+🔭 I’m currently working on improving my coding skills and building projects<br>👯 I’m looking to collaborate on beginner-friendly tech projects<br>🤝 looking for help with mastering advanced DSA concepts and real-world problem solving skills<br>🌱 currently learning DSA, and improving problem-solving skills<br>💬 Ask me about Mern Stack development and DSA concepts 
 
 
 ## 🌐 Socials:
