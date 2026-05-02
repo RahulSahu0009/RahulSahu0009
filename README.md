@@ -8,6 +8,8 @@
 
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on **improving my coding skills and building projects**
@@ -15,6 +17,8 @@
 - 🤝 Looking to collaborate on **beginner-friendly tech projects**
 - 💬 Ask me about **MERN Stack development** and **DSA concepts**
 - 📫 Reach me at **rahulsahu6869@gmail.com**
+
+---
 
 ## 🌐 Connect With Me
 
@@ -26,6 +30,7 @@
 
 </div>
 
+---
 
 ## 💻 Tech Stack
 
@@ -60,8 +65,20 @@
 
 <div align="center">
 
-<!-- 🔄 Updates automatically on every visit -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulsah09&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="49%" />
+<!-- GitHub Stats — using github-stats.pumbas600.vercel.app (reliable alternative) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahulsah09&theme=tokyonight" alt="GitHub Stats" width="49%" />
+
+<!-- Streak Stats — demolab official, very stable -->
+<img src="https://streak-stats.demolab.com?user=Rahulsah09&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="49%" />
+
+</div>
+
+<div align="center">
+
+<!-- Top Languages — using github-profile-summary-cards (no rate limit issues) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rahulsah09&theme=tokyonight" alt="Repos Per Language" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rahulsah09&theme=tokyonight" alt="Most Commit Language" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rahulsah09&theme=tokyonight" alt="Stats" width="32%" />
 
 </div>
 
@@ -75,3 +92,10 @@
 
 </div>
 
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rahulsah09&color=6ad3f7&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
