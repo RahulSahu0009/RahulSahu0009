@@ -61,7 +61,7 @@
 
 ---
 
-## 📊 GitHub Stats — Live & Auto-Updated
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -84,7 +84,7 @@
 
 ---
 
-## 📈 Contribution Graph — Real-Time Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
