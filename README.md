@@ -66,19 +66,19 @@
 <div align="center">
 
 <!-- GitHub Stats — using github-stats.pumbas600.vercel.app (reliable alternative) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahulsah09&theme=tokyonight" alt="GitHub Stats" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulSahu0009&theme=tokyonight" alt="GitHub Stats" width="49%" />
 
 <!-- Streak Stats — demolab official, very stable -->
-<img src="https://streak-stats.demolab.com?user=Rahulsah09&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="49%" />
+<img src="https://streak-stats.demolab.com?user=RahulSahu0009&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="49%" />
 
 </div>
 
 <div align="center">
 
 <!-- Top Languages — using github-profile-summary-cards (no rate limit issues) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rahulsah09&theme=tokyonight" alt="Repos Per Language" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rahulsah09&theme=tokyonight" alt="Most Commit Language" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rahulsah09&theme=tokyonight" alt="Stats" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulSahu0009&theme=tokyonight" alt="Repos Per Language" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulSahu0009&theme=tokyonight" alt="Most Commit Language" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahulSahu0009&theme=tokyonight" alt="Stats" width="32%" />
 
 </div>
 
@@ -88,7 +88,7 @@
 
 <div align="center">
 
-[![Rahul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahulsah09&theme=tokyo-night&hide_border=false&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rahul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulSahu0009&theme=tokyo-night&hide_border=false&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -96,6 +96,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rahulsah09&color=6ad3f7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=RahulSahu0009&color=6ad3f7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
