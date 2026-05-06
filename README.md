@@ -52,7 +52,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -65,20 +65,17 @@
 
 <div align="center">
 
-<!-- GitHub Stats — using github-stats.pumbas600.vercel.app (reliable alternative) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulSahu0009&theme=tokyonight" alt="GitHub Stats" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulSahu0009&theme=tokyonight&cache_seconds=1800&hide_border=false" alt="GitHub Stats" width="49%" />
 
-<!-- Streak Stats — demolab official, very stable -->
-<img src="https://streak-stats.demolab.com?user=RahulSahu0009&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=RahulSahu0009&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="49%" />
 
 </div>
 
 <div align="center">
 
-<!-- Top Languages — using github-profile-summary-cards (no rate limit issues) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulSahu0009&theme=tokyonight" alt="Repos Per Language" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulSahu0009&theme=tokyonight" alt="Most Commit Language" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahulSahu0009&theme=tokyonight" alt="Stats" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulSahu0009&theme=tokyonight&cache_seconds=1800" alt="Repos Per Language" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulSahu0009&theme=tokyonight&cache_seconds=1800" alt="Most Commit Language" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahulSahu0009&theme=tokyonight&cache_seconds=1800" alt="Stats" width="32%" />
 
 </div>
 
