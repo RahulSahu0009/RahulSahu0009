@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey there, I'm Rahul Sah
+# Hey there, I'm Rahul Sahu
 
 ### MERN Stack Developer | DSA Enthusiast | Lifelong Learner
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;MERN+Stack+%7C+React+%7C+Node.js;Learning+DSA+%26+Problem+Solving+%F0%9F%A7%A0;Open+to+Collaborate+on+Cool+Projects+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+%7C+React+%7C+Node.js;Learning+DSA+%26+Problem+Solving;Open+to+Collaborate+on+Cool+Projects)](https://git.io/typing-svg)
 
 </div>
 
