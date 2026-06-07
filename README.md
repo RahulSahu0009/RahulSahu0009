@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey there 👋, I'm Rahul Sah
+# Hey there, I'm Rahul Sah
 
-### 🚀 MERN Stack Developer | DSA Enthusiast | Lifelong Learner
+### MERN Stack Developer | DSA Enthusiast | Lifelong Learner
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;MERN+Stack+%7C+React+%7C+Node.js;Learning+DSA+%26+Problem+Solving+%F0%9F%A7%A0;Open+to+Collaborate+on+Cool+Projects+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
@@ -10,17 +10,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🔭 Currently working on **improving my coding skills and building projects**
-- 🌱 Actively learning **DSA** and sharpening **problem-solving skills**
-- 🤝 Looking to collaborate on **beginner-friendly tech projects**
-- 💬 Ask me about **MERN Stack development** and **DSA concepts**
-- 📫 Reach me at **rahulsahu6869@gmail.com**
+- Currently working on **improving my coding skills and building projects**
+- Actively learning **DSA** and sharpening **problem-solving skills**
+- Looking to collaborate on **beginner-friendly tech projects**
+- Ask me about **MERN Stack development** and **DSA concepts**
+- Reach me at **rahulsahu6869@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -81,7 +81,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
